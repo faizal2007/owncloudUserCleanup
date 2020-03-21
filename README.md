@@ -1,4 +1,3 @@
-apt-get install python3-venv
-source bin/activate
+# Owncloud user cleanup
 
-apt-get install jq
+## schedule to clean user and storage on certain period of time
