@@ -2,4 +2,4 @@
 
 ## Feature
 * schedule to clean user and storage on certain period of time
-* adhoc clean user
+* adhoc bulk delete user
