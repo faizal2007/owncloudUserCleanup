@@ -1,0 +1,2 @@
+## At 00:00 on day-of-month 14
+00 00    14 * *   root    /var/www/html/user-cleanup/run |tee /var/log/owncloud-cleanup.log

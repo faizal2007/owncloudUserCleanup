@@ -1,0 +1,11 @@
+#!/bin/bash
+
+###
+# Default variable
+##
+
+SCRIPT=`realpath $0`
+SCRIPTPATH=`dirname $SCRIPT`
+cd $SCRIPTPATH
+
+venv/bin/python3 clean.py
