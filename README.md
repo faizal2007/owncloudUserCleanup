@@ -1,3 +1,5 @@
 # Owncloud user cleanup
 
-## schedule to clean user and storage on certain period of time
+## Feature
+* schedule to clean user and storage on certain period of time
+* adhoc clean user
