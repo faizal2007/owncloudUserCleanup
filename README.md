@@ -24,6 +24,9 @@ Default installation will only display all user available accept protected user
  + make sure to set protected_user at config.conf
  + update all related config at config.conf
 
+To start delete user and file
+ + update delete = 1 at config.conf
+
  Run script by trigger
  ```bash
  python clean.py
