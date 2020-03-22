@@ -4,11 +4,13 @@
 * schedule to clean user and storage on certain period of time
 * adhoc bulk delete user
  
-## Require
+## Requirement
+
 ```bash
  apt-get install python3-venv
 
 ```
+Note : python 3.6 and above
 
 ## Installation Guide
  ```bash
