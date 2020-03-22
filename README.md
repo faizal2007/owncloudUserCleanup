@@ -20,7 +20,7 @@
 
  ```
 
-Default installation will only display all user available accept protected user
+Default installation will only display all user available accept protected user delete = 0
  + make sure to set protected_user at config.conf
  + update all related config at config.conf
 
