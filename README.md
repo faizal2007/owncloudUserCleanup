@@ -7,3 +7,16 @@
 ## Require
 ```bash
  apt-get install python3-venv
+```
+ 
+ ## Installation Guide
+ ```bash
+ git clone http://gitlab.command-line.io/owncloud/user-cleanup.git /opt/owncloud/user-cleanup
+ cd /opt/owncloud/user-cleanup/
+ python3 -m venv venv
+ source venv/bin/activate
+ pip install -r requirements.txt
+ ```
+ 
+ ### default installation will only display all user available accept protected user
+ 
